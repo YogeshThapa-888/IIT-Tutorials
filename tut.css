@@ -1,0 +1,16 @@
+/*This is external CSS*/
+.note { background-color: #D6D3D1; 
+    padding: 20px; 
+    border-color: black; 
+    border: 10%; 
+    border-radius: 10%;
+    width: fit-content;
+}
+h1 {
+    text-align: center;
+
+}
+ul {
+    list-style: square;
+
+}
